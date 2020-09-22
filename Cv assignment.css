@@ -1,0 +1,21 @@
+
+    .cvDesign {
+        font-family: "Vederna", sans-serif  ;
+        font-size: medium;
+        border: 2px solid;
+        margin-block-end: 80px;
+        margin-block-start: 50px;
+        text-align: justify;
+    }
+    .cvHeader{
+        text-align: center;
+        font-family: "Vederna", sans-serif;
+        font-size: large;
+        font-weight: 100;
+    }
+    #lowerboder {
+    border-bottom: 2px solid;
+    width: 80%;
+    }
+            
+    

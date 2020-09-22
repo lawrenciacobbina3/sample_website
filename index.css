@@ -1,0 +1,46 @@
+/*Design page header */
+
+@import url(http://127.0.0.1:5500/index.html);
+
+.headDesign {
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: black;
+    text-align: center;
+    color: rgb(146,61,65);
+}
+
+/* Design for Bio */
+ .bioDesign { 
+     font-size: larger; 
+     border: 2px solid;
+     }
+ 
+/* Design of Form*/     
+.formDesign {
+    box-sizing: border-box;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: black;
+    text-align: justify;
+    color: rgb(146,61,65);
+    padding: 5px;
+    margin: auto;
+    font: "Times New Roman";
+    font-size: large;
+ }
+
+ input[type=text]{
+     width: 50%;
+     
+ }
+
+ input[type=email]{
+     width: 50%;
+     box-sizing: border-box;
+ }
+
+ input[type=tel]{
+     width: 50%;
+     box-sizing: border-box;
+ }
